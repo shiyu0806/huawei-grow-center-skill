@@ -1,0 +1,5 @@
+name: "huawei-grow-center"
+title: "华为云开发者成长中心任务"
+description: "完成华为云开发者成长中心的每日、每周、每月任务并领取积分，包括登录态复用、鸿蒙实践、展览馆发布作品和 Star 代码仓。"
+category: "Work and knowledge"
+include_in_prompt: false
